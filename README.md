@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-The **LinkedIn Engagement Bot** is an intelligent automation tool designed to manage your LinkedIn presence effortlessly. It logs into your LinkedIn account, auto-generates meaningful posts, engages with connections by liking, commenting, and replying—all powered by **LLaMA3-70B** through the **Groq API**. Perfect for individuals or businesses aiming to stay active and build a professional audience without manual effort.
+The **LinkedIn Engagement Bot** is an intelligent automation tool designed to manage your LinkedIn presence effortlessly. It logs into your LinkedIn account, auto-generates meaningful posts, engages with connections by liking, commenting, and replying. All powered by **LLaMA3-70B** through the **Groq API**. Perfect for individuals or businesses aiming to stay active and build a professional audience without manual effort.
 
 ---
 

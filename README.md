@@ -43,18 +43,14 @@ The **LinkedIn Engagement Bot** is an intelligent automation tool designed to ma
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/linkedin-bot
-cd linkedin-bot
+git clone https://github.com/AnthropoidFHJ/Linkedin-Automation
 ```
 
-2. **Create a Virtual Environment**
+2. **Create and Activate a Conda Environment**
 
 ```bash
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
+conda create -n linkedinBot python=3.10 -y
+conda activate linkedinBot
 ```
 
 3. **Install Dependencies**
@@ -68,9 +64,9 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-LINKEDIN_USERNAME="your_email_here"
-LINKEDIN_PASSWORD="your_password_here"
-GROQ_API_KEY="your_groq_api_key_here"
+LINKEDIN_USERNAME="Email Address"
+LINKEDIN_PASSWORD="Password"
+GROQ_API_KEY="Groq-API Key"
 ```
 
 5. **Prepare Your Topics**
